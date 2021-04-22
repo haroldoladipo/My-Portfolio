@@ -39,6 +39,13 @@ sr.reveal('.section__subtitle--about',{delay: 200})
 sr.reveal('.about-me__body',{interval: 200})
 sr.reveal('.about-me__img',{delay: 400})
 
+/* SCROLL SKILLS*/
+sr.reveal('.skills__subtitle',{})
+sr.reveal('.skills__text',{delay: 200})
+sr.reveal('.skills__data',{interval: 200})
+sr.reveal('.skills__img',{delay: 400})
+
+
 /*SCROLL WORK*/
 sr.reveal('.section__title section__title--work',{})
 sr.reveal('.section__subtitle section__subtitle--work',{interval: 200})
